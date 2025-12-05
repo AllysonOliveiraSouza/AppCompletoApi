@@ -145,3 +145,5 @@ C:\Users\usuario\Desktop\PROJETOS DE PROGRAMAÇÃO\Novo Portfólio\Projetos\APP_
 C:\Users\usuario\Desktop\PROJETOS DE PROGRAMAÇÃO\Novo Portfólio\Projetos\APP_COMPLETO\Projeto\Backend\AppCompletoApi\obj\Debug\net8.0\ref\AppCompletoApi.dll
 C:\Users\usuario\Desktop\PROJETOS DE PROGRAMAÇÃO\Novo Portfólio\Projetos\APP_COMPLETO\Projeto\Backend\AppCompletoApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\usuario\Desktop\PROJETOS DE PROGRAMAÇÃO\Novo Portfólio\Projetos\APP_COMPLETO\Projeto\Backend\AppCompletoApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\usuario\Desktop\PROJETOS DE PROGRAMAÇÃO\Novo Portfólio\Projetos\APP_COMPLETO\Projeto\Backend\AppCompletoApi\obj\Debug\net8.0\AppCompletoApi.sourcelink.json
+C:\Users\usuario\Desktop\PROJETOS DE PROGRAMAÇÃO\Novo Portfólio\Projetos\APP_COMPLETO\Projeto\Backend\AppCompletoApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
