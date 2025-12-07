@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\static\\jwtutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:static\\jwtutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\controllers\\tipousuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:controllers\\tipousuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\static\\cript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:static\\cript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\controllers\\senhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:controllers\\senhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\models\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:models\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\dtos\\senhadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:dtos\\senhadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\validations\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:validations\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\appcompletoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:appcompletoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\static\\cript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:static\\cript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\services\\senhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:services\\senhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\models\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:models\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\services\\senhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:services\\senhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\interfaces\\isenhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:interfaces\\isenhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,16 +83,8 @@
       "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:dtos\\tipousuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\controllers\\tipousuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:controllers\\tipousuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\services\\tipousuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,24 +95,8 @@
       "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:interfaces\\itipousuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\dtos\\senhadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:dtos\\senhadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\models\\senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:models\\senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{398D7884-470A-409B-AD5A-B3E62806A7A1}|AppCompletoApi.csproj|c:\\users\\usuario\\desktop\\projetos de programa\u00E7\u00E3o\\novo portf\u00F3lio\\projetos\\app_completo\\projeto\\backend\\appcompletoapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,33 +122,161 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SenhaDto.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\SenhaDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\SenhaDto.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\SenhaDto.cs",
+              "RelativeToolTip": "Dtos\\SenhaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T13:37:07.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SenhaController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Controllers\\SenhaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SenhaController.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Controllers\\SenhaController.cs",
+              "RelativeToolTip": "Controllers\\SenhaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:15:35.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TipoUsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Controllers\\TipoUsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoUsuarioController.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Controllers\\TipoUsuarioController.cs",
+              "RelativeToolTip": "Controllers\\TipoUsuarioController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:15:58.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:06:09.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T13:48:47.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtUtil.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Static\\JwtUtil.cs",
+              "RelativeDocumentMoniker": "Static\\JwtUtil.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Static\\JwtUtil.cs",
+              "RelativeToolTip": "Static\\JwtUtil.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T22:21:59.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-22T14:15:19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\LoginDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\LoginDto.cs",
-              "RelativeToolTip": "Dtos\\LoginDto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAQAAAApAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\UsuarioDto.cs",
+              "RelativeToolTip": "Dtos\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T22:53:21.906Z",
+              "WhenOpened": "2025-11-22T13:11:08.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailValidation.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Validations\\EmailValidation.cs",
+              "RelativeDocumentMoniker": "Validations\\EmailValidation.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Validations\\EmailValidation.cs",
+              "RelativeToolTip": "Validations\\EmailValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T21:19:20.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAArwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:58:10.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cript.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Static\\Cript.cs",
+              "RelativeDocumentMoniker": "Static\\Cript.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Static\\Cript.cs",
+              "RelativeToolTip": "Static\\Cript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:50:04.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppCompletoApi.csproj",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\AppCompletoApi.csproj",
+              "RelativeDocumentMoniker": "AppCompletoApi.csproj",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\AppCompletoApi.csproj",
+              "RelativeToolTip": "AppCompletoApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T21:18:18.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "SenhaService.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Services\\SenhaService.cs",
               "RelativeDocumentMoniker": "Services\\SenhaService.cs",
@@ -153,59 +289,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cript.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Static\\Cript.cs",
-              "RelativeDocumentMoniker": "Static\\Cript.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Static\\Cript.cs",
-              "RelativeToolTip": "Static\\Cript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T15:50:04.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T22:53:21.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SenhaController.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Controllers\\SenhaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SenhaController.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Controllers\\SenhaController.cs",
-              "RelativeToolTip": "Controllers\\SenhaController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T14:15:35.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T13:38:17.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwtUtil.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Static\\JwtUtil.cs",
-              "RelativeDocumentMoniker": "Static\\JwtUtil.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Static\\JwtUtil.cs",
-              "RelativeToolTip": "Static\\JwtUtil.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T22:21:59.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T14:06:09.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "TipoUsuario.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Models\\TipoUsuario.cs",
               "RelativeDocumentMoniker": "Models\\TipoUsuario.cs",
@@ -213,12 +321,11 @@
               "RelativeToolTip": "Models\\TipoUsuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T12:59:57.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T12:59:57.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "LoginService.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Services\\LoginService.cs",
               "RelativeDocumentMoniker": "Services\\LoginService.cs",
@@ -226,12 +333,11 @@
               "RelativeToolTip": "Services\\LoginService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAjwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T22:57:07.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T22:57:07.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "ILoginService.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Interfaces\\ILoginService.cs",
               "RelativeDocumentMoniker": "Interfaces\\ILoginService.cs",
@@ -239,12 +345,11 @@
               "RelativeToolTip": "Interfaces\\ILoginService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T22:54:22.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T22:54:22.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "ISenhaService.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Interfaces\\ISenhaService.cs",
               "RelativeDocumentMoniker": "Interfaces\\ISenhaService.cs",
@@ -252,12 +357,11 @@
               "RelativeToolTip": "Interfaces\\ISenhaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T13:08:03.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T13:08:03.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "TipoUsuarioDto.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\TipoUsuarioDto.cs",
               "RelativeDocumentMoniker": "Dtos\\TipoUsuarioDto.cs",
@@ -265,25 +369,11 @@
               "RelativeToolTip": "Dtos\\TipoUsuarioDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T13:11:21.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T13:11:21.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TipoUsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Controllers\\TipoUsuarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TipoUsuarioController.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Controllers\\TipoUsuarioController.cs",
-              "RelativeToolTip": "Controllers\\TipoUsuarioController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T14:15:58.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "TipoUsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Services\\TipoUsuarioService.cs",
               "RelativeDocumentMoniker": "Services\\TipoUsuarioService.cs",
@@ -291,25 +381,11 @@
               "RelativeToolTip": "Services\\TipoUsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T13:38:50.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T13:38:50.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "Services\\UsuarioService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T13:38:17.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "IUsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Interfaces\\IUsuarioService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUsuarioService.cs",
@@ -317,12 +393,11 @@
               "RelativeToolTip": "Interfaces\\IUsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T13:07:47.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T13:07:47.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "ITipoUsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Interfaces\\ITipoUsuarioService.cs",
               "RelativeDocumentMoniker": "Interfaces\\ITipoUsuarioService.cs",
@@ -330,25 +405,11 @@
               "RelativeToolTip": "Interfaces\\ITipoUsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T13:08:24.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T13:08:24.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SenhaDto.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\SenhaDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\SenhaDto.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\SenhaDto.cs",
-              "RelativeToolTip": "Dtos\\SenhaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T13:37:07.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Senha.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Models\\Senha.cs",
               "RelativeDocumentMoniker": "Models\\Senha.cs",
@@ -356,51 +417,11 @@
               "RelativeToolTip": "Models\\Senha.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T12:59:26.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T12:59:26.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UsuarioDto.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\UsuarioDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\UsuarioDto.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\UsuarioDto.cs",
-              "RelativeToolTip": "Dtos\\UsuarioDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T13:11:08.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Models\\Usuario.cs",
-              "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T12:58:10.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-22T13:48:47.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
@@ -408,12 +429,11 @@
               "RelativeToolTip": "Context\\AppDbContext.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T14:00:17.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T14:00:17.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "RespostaDto.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\PROJETOS DE PROGRAMA\u00C7\u00C3O\\Novo Portf\u00F3lio\\Projetos\\APP_COMPLETO\\Projeto\\Backend\\AppCompletoApi\\Dtos\\RespostaDto.cs",
               "RelativeDocumentMoniker": "Dtos\\RespostaDto.cs",
@@ -421,8 +441,7 @@
               "RelativeToolTip": "Dtos\\RespostaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T13:08:56.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T13:08:56.335Z"
             }
           ]
         }

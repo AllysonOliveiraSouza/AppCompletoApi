@@ -1,6 +1,7 @@
 ﻿using AppCompletoApi.Dtos;
 using AppCompletoApi.Interfaces;
 using AppCompletoApi.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AppCompletoApi.Controllers
@@ -21,6 +22,7 @@ namespace AppCompletoApi.Controllers
             return (resp!=null)?resp:BadRequest("Erro ao inserir tipo de usuário !");
         }
 
+        [Authorize]
         [HttpGet]
         public ActionResult<List<TipoUsuarioDto>> Get() {
             return _service.Listar();

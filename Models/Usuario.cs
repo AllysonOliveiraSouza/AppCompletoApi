@@ -1,4 +1,6 @@
-﻿namespace AppCompletoApi.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace AppCompletoApi.Models
 {
     public class Usuario
     {

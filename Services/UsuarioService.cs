@@ -57,5 +57,11 @@ namespace AppCompletoApi.Services
         {
             throw new NotImplementedException();
         }
+
+        #region Private
+
+
+
+        #endregion
     }
 }

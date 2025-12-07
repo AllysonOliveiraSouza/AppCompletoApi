@@ -17,6 +17,7 @@ namespace AppCompletoApi.Controllers
         [HttpPost]
         public ActionResult<Senha> Post(SenhaDto dto)
         {
+            if (!ModelState.IsValid) return BadRequest();
             var resp = _service.Criar(dto);
             return resp==null? BadRequest("Erro ao cadastrar senha"):resp;
         }

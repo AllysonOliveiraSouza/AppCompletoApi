@@ -20,7 +20,7 @@ namespace AppCompletoApi.Services
 
         public Senha? Criar(SenhaDto dto)
         {
-            string senhaCriptografada = Cript.CriaHashSenha(dto.SenhaHash);
+            string senhaCriptografada = Cript.CriaHashSenha(dto.Senha);
             var usuario = _context.Usuario.FirstOrDefault(u => u.Id==dto.UsuarioId);
 
             if (usuario==null) return null;

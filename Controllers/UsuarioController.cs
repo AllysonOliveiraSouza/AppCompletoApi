@@ -27,6 +27,7 @@ namespace AppCompletoApi.Controllers
         [HttpPost]
         public ActionResult<Usuario> Post(UsuarioDto dto)
         {
+            if (!ModelState.IsValid) return BadRequest();
             var resp = _service.Criar(dto);
             return (resp==null) ? BadRequest("Erro ao criar usuário !") : resp;
         }

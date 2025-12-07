@@ -23,6 +23,8 @@ namespace AppCompletoApi.Static
 
             var tokenDescriptor = new SecurityTokenDescriptor
             {
+                Audience = "AppCompletoApi",
+                Issuer = "AppCompletoApi",
                 Subject = GerarClaims(u),
                 SigningCredentials = credentials,
                 Expires = DateTime.UtcNow.AddHours(4)
