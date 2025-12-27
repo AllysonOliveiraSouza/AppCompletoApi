@@ -10,5 +10,6 @@ namespace AppCompletoApi.Interfaces
         public RespostaDto Excluir(int id);
         public List<UsuarioDto> Listar();
         public UsuarioDto? Obter(int id);
+        public RespostaDto AtribuirAdm(int id);
     }
 }

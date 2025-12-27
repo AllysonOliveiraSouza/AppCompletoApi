@@ -18,6 +18,18 @@ namespace AppCompletoApi.Services
             throw new NotImplementedException();
         }
 
+        public RespostaDto AtribuirAdm(int id)
+        {
+            Usuario? usuario = _context.Usuario.FirstOrDefault(u => u.Id == id);
+            if (usuario == null) return new() { Mensagem = "Falha ao atribuir adm !", Sucesso= false };
+
+            usuario.TipoUsuarioId = 1;
+            _context.Update(usuario);
+            _context.SaveChanges();
+
+            return new() {Mensagem=$"{usuario.Nome} agora é um administrador !", Sucesso = true };       
+        }
+
         public Usuario? Criar(UsuarioDto dto)
         {
             Usuario usuario = new() { Nome = dto.Nome, Email = dto.Email, Sexo = dto.Sexo};

@@ -221,6 +221,46 @@
         }
       }
     },
+    "/api/Usuario/AtribuirAdm/{id}": {
+      "patch": {
+        "tags": [
+          "Usuario"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/RespostaDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/RespostaDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/RespostaDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Usuario/Autenticado": {
       "get": {
         "tags": [
@@ -290,6 +330,19 @@
             "nullable": true
           },
           "senha": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "RespostaDto": {
+        "type": "object",
+        "properties": {
+          "sucesso": {
+            "type": "boolean"
+          },
+          "mensagem": {
             "type": "string",
             "nullable": true
           }

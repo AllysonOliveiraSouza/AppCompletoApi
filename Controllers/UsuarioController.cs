@@ -53,6 +53,14 @@ namespace AppCompletoApi.Controllers
             return _service.Listar();
         }
 
+        [HttpPatch("AtribuirAdm/{id:int}")]
+        [Authorize(Roles = "Adm")]
+        public ActionResult<RespostaDto> AtribuirAdm(int id)
+        {
+            var request = _service.AtribuirAdm(id);
+            return request;            
+        }
+
         [HttpGet("Autenticado")]
         [Authorize]
         public ActionResult<UsuarioDto?> GetLogado()

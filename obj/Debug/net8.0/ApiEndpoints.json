@@ -93,6 +93,32 @@
   },
   {
     "ContainingType": "AppCompletoApi.Controllers.UsuarioController",
+    "Method": "AtribuirAdm",
+    "RelativePath": "api/Usuario/AtribuirAdm/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AppCompletoApi.Dtos.RespostaDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppCompletoApi.Controllers.UsuarioController",
     "Method": "GetLogado",
     "RelativePath": "api/Usuario/Autenticado",
     "HttpMethod": "GET",
