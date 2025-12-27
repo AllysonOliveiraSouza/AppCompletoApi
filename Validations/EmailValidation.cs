@@ -1,8 +1,6 @@
 ﻿using AppCompletoApi.Context;
-using AppCompletoApi.Models;
 using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
-using System.Runtime.CompilerServices;
 
 namespace AppCompletoApi.Validations
 {

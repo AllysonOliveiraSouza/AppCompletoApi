@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AppCompletoApi.Controllers
 {
+    [Authorize(Roles = "Adm")]
     [Route("api/[controller]")]
     [ApiController]
     public class TipoUsuarioController : ControllerBase
@@ -22,7 +23,6 @@ namespace AppCompletoApi.Controllers
             return (resp!=null)?resp:BadRequest("Erro ao inserir tipo de usuário !");
         }
 
-        [Authorize]
         [HttpGet]
         public ActionResult<List<TipoUsuarioDto>> Get() {
             return _service.Listar();

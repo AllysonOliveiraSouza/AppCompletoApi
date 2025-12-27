@@ -2,6 +2,7 @@
 using AppCompletoApi.Dtos;
 using AppCompletoApi.Interfaces;
 using AppCompletoApi.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace AppCompletoApi.Services
 {
@@ -53,15 +54,19 @@ namespace AppCompletoApi.Services
             return l;
         }
 
-        public UsuarioDto Obter(int id)
+        public UsuarioDto? Obter(int id)
         {
-            throw new NotImplementedException();
+            var usuario = _context.Usuario.AsNoTracking().FirstOrDefault(u=>u.Id == id);
+            if (usuario == null) return null;
+
+            return new()
+            {
+                Email = usuario.Email,
+                Id = usuario.Id,
+                Nome = usuario.Nome,
+                Sexo = usuario.Sexo,
+                TipoUsuarioId = usuario.TipoUsuarioId
+            };
         }
-
-        #region Private
-
-
-
-        #endregion
     }
 }

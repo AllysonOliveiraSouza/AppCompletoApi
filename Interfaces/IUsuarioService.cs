@@ -9,6 +9,6 @@ namespace AppCompletoApi.Interfaces
         public UsuarioDto Alterar(UsuarioDto dto);
         public RespostaDto Excluir(int id);
         public List<UsuarioDto> Listar();
-        public UsuarioDto Obter(int id);
+        public UsuarioDto? Obter(int id);
     }
 }

@@ -1,31 +1,5 @@
 [
   {
-    "ContainingType": "AppCompletoApi.Controllers.SenhaController",
-    "Method": "Post",
-    "RelativePath": "api/Senha",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dto",
-        "Type": "AppCompletoApi.Dtos.SenhaDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "AppCompletoApi.Models.Senha",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
     "ContainingType": "AppCompletoApi.Controllers.TipoUsuarioController",
     "Method": "Post",
     "RelativePath": "api/TipoUsuario",
@@ -81,7 +55,7 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "AppCompletoApi.Dtos.UsuarioDto",
+        "Type": "AppCompletoApi.Dtos.CadastroDto",
         "IsRequired": true
       }
     ],
@@ -108,6 +82,26 @@
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.List\u00601[[AppCompletoApi.Dtos.UsuarioDto, AppCompletoApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppCompletoApi.Controllers.UsuarioController",
+    "Method": "GetLogado",
+    "RelativePath": "api/Usuario/Autenticado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AppCompletoApi.Dtos.UsuarioDto",
         "MediaTypes": [
           "text/plain",
           "application/json",

@@ -1,6 +1,7 @@
 ﻿using AppCompletoApi.Dtos;
 using AppCompletoApi.Interfaces;
 using AppCompletoApi.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AppCompletoApi.Controllers
@@ -11,10 +12,14 @@ namespace AppCompletoApi.Controllers
     {
         private readonly IUsuarioService _service;
         private readonly ILoginService _loginService;
-        public UsuarioController(IUsuarioService service, ILoginService loginService)
+        private readonly ISenhaService _senhaService;
+
+
+        public UsuarioController(IUsuarioService service, ILoginService loginService, ISenhaService senhaService)
         {
             _service = service;
             _loginService = loginService;
+            _senhaService=senhaService;
         }
 
         [HttpPost("Login")]
@@ -25,17 +30,39 @@ namespace AppCompletoApi.Controllers
         }
 
         [HttpPost]
-        public ActionResult<Usuario> Post(UsuarioDto dto)
+        public ActionResult<Usuario> Post(CadastroDto dto)
         {
-            if (!ModelState.IsValid) return BadRequest();
-            var resp = _service.Criar(dto);
-            return (resp==null) ? BadRequest("Erro ao criar usuário !") : resp;
+            if (!ModelState.IsValid) return BadRequest();            
+            var usuarioCadastrado = _service.Criar(new() { Email = dto.Email, Nome = dto.Nome, Sexo = dto.Sexo});
+
+            if (usuarioCadastrado!=null) {
+                var senha = _senhaService.Criar(new() { Senha=dto.Senha, UsuarioId = usuarioCadastrado.Id });
+                if (senha==null) {
+                    _service.Excluir(usuarioCadastrado.Id);
+                    return BadRequest("Erro ao criar usuário !");
+                }
+            } else return BadRequest("Erro ao criar usuário");
+
+            return usuarioCadastrado;
         }
 
         [HttpGet]
+        [Authorize(Roles = "Adm")]
         public ActionResult<List<UsuarioDto>> Get()
         {
             return _service.Listar();
+        }
+
+        [HttpGet("Autenticado")]
+        [Authorize]
+        public ActionResult<UsuarioDto?> GetLogado()
+        {
+            var idUsuario = User.FindFirst("Id")?.Value;
+            
+            if (idUsuario == null) return BadRequest();
+            var usuario = _service.Obter(int.Parse(idUsuario));
+
+            return usuario==null?BadRequest():usuario;
         }
     }
 }

@@ -61,6 +61,7 @@ builder.Services.AddAuthentication("Bearer")
                 Encoding.UTF8.GetBytes("bfe3r98095y4ndkjnwpii3r873bcfwuegfaaa"))
         };
     });
+//
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
